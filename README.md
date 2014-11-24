@@ -13,3 +13,5 @@ Simple error checks, wrong data input check, and other informative statuses were
 
 Unfortunately right now the project is implemented with greeklish (greek-english) naming in the code.
 It is planned in the future, the full translation and update of the project.
+
+![Screen Shot](screenshot.png)
