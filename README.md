@@ -1,4 +1,4 @@
-car-check
+Car-Check / A car garage-service company software.
 =========
 
 As a mandatory part of my bachelor course , "Object Oriented Programming", 
